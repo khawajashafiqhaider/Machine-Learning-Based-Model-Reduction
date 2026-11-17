@@ -1,0 +1,10 @@
+{
+  "model": "SLICOT ISS component 1R",
+  "source": "https://www.slicot.org/objects/software/shared/bench-data/iss.zip",
+  "iss_mat_sha256": "af141cbb94286f9b673a2db1f1513254f72c17934329958b71691f770f99272a",
+  "states": 270,
+  "inputs": 3,
+  "outputs": 3,
+  "second_order_coordinates": 135,
+  "notes": "Official realization is unmodified. The final robustness campaign resets modal damping to 0.05 explicitly; the local LTI comparison uses the original realization."
+}
